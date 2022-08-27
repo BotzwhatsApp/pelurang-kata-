@@ -1,0 +1,2 @@
+# pelurang-kata-
+Tools termux 
